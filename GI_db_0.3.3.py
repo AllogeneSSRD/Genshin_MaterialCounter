@@ -7,7 +7,6 @@ import sqlite3
 
 from datetime import datetime
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
 from params import synthesis_material
 
 db_path = "C:\\Users\\*\\Documents\\Hutao\\Userdata.db"
